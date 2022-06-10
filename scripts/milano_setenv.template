@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#set -x
+
+# Change the settings below accordingly
+milano_home="${HOME}/Development/izoratti/milano"
+neo4j_home="${HOME}/release/447"
+
